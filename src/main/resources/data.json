@@ -1,0 +1,9 @@
+[
+  {
+    "description": "US Dollar",
+    "currency": "USD",
+    "salePrice": "3.50",
+    "purchasePrice": "3.30",
+    "_class": "com.challenge.tsc.coin_exchange.entity.ExchangeRate"
+  }
+]

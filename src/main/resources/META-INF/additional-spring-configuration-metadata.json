@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "com.oauth0.audience",
+      "type": "java.lang.String",
+      "description": "Description for com.oauth0.audience."
+    }
+  ]
+}

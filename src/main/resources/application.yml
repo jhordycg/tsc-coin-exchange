@@ -1,0 +1,14 @@
+com:
+  oauth0:
+    audience: tsc-challenge
+spring:
+  datasource:
+    url: jdbc:h2:mem:///tsc
+    driver-class-name: org.h2.Driver
+    username: userName__
+    password: Pass_w0rd__
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: https://jhordycg.us.auth0.com/
